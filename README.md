@@ -5,7 +5,7 @@
 
 ## Features
 
-* 支持MarkDown语法编辑
+* 支持MarkDown语法
 * 支持代码高亮
 
 ###### 相关技术
@@ -65,4 +65,9 @@ npm test
 
 ** 建议可使用mongoVUE作为数据库的可视化工具
 
-
+![image](https://github.com/chenshaomei/vue-router-vuex-mongoDB/raw/master/screenImgs/1.png)
+![image](https://github.com/chenshaomei/vue-router-vuex-mongoDB/raw/master/screenImgs/2.png)
+![image](https://github.com/chenshaomei/vue-router-vuex-mongoDB/raw/master/screenImgs/3.png)
+![image](https://github.com/chenshaomei/vue-router-vuex-mongoDB/raw/master/screenImgs/4.png)
+![image](https://github.com/chenshaomei/vue-router-vuex-mongoDB/raw/master/screenImgs/5.png)
+![image](https://github.com/chenshaomei/vue-router-vuex-mongoDB/raw/master/screenImgs/6.png)
